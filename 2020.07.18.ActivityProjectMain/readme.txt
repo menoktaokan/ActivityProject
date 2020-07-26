@@ -11,6 +11,7 @@ Some updates that the app needs:
 -Uncheck activities,
 -Wide-rating admin panel (editing users, deleting user account, editing activities etc.),
 -Some visual upgradings.
+-Relations between models (ManyToMany, OneToMany).
 
 You can use and modify the app as you wish.
 
