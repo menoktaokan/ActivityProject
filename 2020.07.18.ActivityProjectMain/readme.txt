@@ -13,7 +13,12 @@ Some updates that the app needs:
 -Some visual upgradings.
 -Relations between models (ManyToMany, OneToMany).
 
+Screenshots about db:
+https://i.hizliresim.com/hofece.jpg
+https://i.hizliresim.com/cOLL1e.jpg
+
 You can use and modify the app as you wish.
+
 
 26.07.2020
 menoktaokan
